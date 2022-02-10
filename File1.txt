@@ -1,7 +1,8 @@
-Hello world!!
+Hello world!!!
 
-anubhav singh..
+anubhav singh...
 
 change for bug1 to be fixed
 change for bug2 for 3 way merging
 change by team mate 3 way merging.
+chnage for bug3 for 3 way merging
