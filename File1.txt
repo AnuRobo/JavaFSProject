@@ -10,3 +10,4 @@ change by team mate for WI6 3 way merging
 
 chnage for bug3 for 3 way merging
 
+change :- on local master for WI7 to test normal push.
