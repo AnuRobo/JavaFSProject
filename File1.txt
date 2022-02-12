@@ -8,8 +8,12 @@ change by team mate 3 way merging.
 
 change by team mate for WI6 3 way merging
 
-chnage for bug3 for 3 way merging
+chnage for bug3 for 3 way merging.
 
 change :- on local master for WI7 to test normal push.
 change :- on remote master by team mate to test pull for WI8.
+
 change :- for bug5 on remote master by teammates to test pull rebase with conflict.
+
+change :- on local master for CR1 to check pull rebase with conflict.
+
