@@ -12,3 +12,4 @@ chnage for bug3 for 3 way merging
 
 change :- on local master for WI7 to test normal push.
 change :- on remote master by team mate to test pull for WI8.
+change :- for bug5 on remote master by teammates to test pull rebase with conflict.
